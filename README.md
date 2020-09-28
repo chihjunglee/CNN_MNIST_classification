@@ -1,3 +1,3 @@
 # MNIST classification
-##Introduction
+## Introduction
 ##### Using CNN model to classify hand writing image
